@@ -11,5 +11,7 @@ Following the first three lessons of the MOOC *Practical Deep Learning for Coder
 * ks-3.0-flag-classification-ui.ipynb
 	* A web application is created where the image of a flag can be uploaded and the application returns 1) the flag's US State and/or Territory and 2) the model's confidence in the classification.
 
-Finally the result web application is hosted using Binder (see link at the top of this README).
+The resultant web application is hosted using Binder (see link at the top of this README).
+
+
 	
